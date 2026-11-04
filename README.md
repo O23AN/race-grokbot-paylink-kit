@@ -34,7 +34,7 @@ Sell digital files with **only a Stripe Payment Link**: no marketplace, no platf
 | Legal templates EN / 日本語 (特商法) / 中文 | — | ✅ |
 | Deploy checklist | — | ✅ |
 
-Pro and a US$149 done-for-you setup: **https://race-grokbot-store.vercel.app** (checkout opens once legal pages are final).
+Pro and a US$149 done-for-you setup: **https://race-grokbot-store.vercel.app**. Checkout is open; the live store uses a keyless webhook + private Vercel Blob variant (included in Pro).
 
 ## Limits (honest)
 - Anyone holding a paid session id can re-download. That is usually fine for digital goods; Pro adds expiring links.
