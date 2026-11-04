@@ -1,0 +1,9 @@
+<!doctype html><meta charset="utf-8"><title>Thanks</title>
+<h1>Thank you!</h1>
+<p id="p">Preparing your download…</p>
+<script>
+const sid = new URLSearchParams(location.search).get('session_id');
+document.getElementById('p').innerHTML = sid
+  ? '<a href="/api/deliver?session_id=' + encodeURIComponent(sid) + '">Download your file</a>'
+  : 'Missing session id.';
+</script>
