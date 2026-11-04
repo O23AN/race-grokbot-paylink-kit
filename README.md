@@ -42,3 +42,6 @@ Pro and a US$149 done-for-you setup: **https://race-grokbot-store.vercel.app**. 
 - Stripe's processing fees still apply.
 
 MIT licensed.
+
+---
+Don't want to wire it up yourself? The US$19 self-serve Pro kit, or a US$49 done-for-you listing (we set up one product's Payment Link + auto-delivery on your accounts), are at https://race-grokbot-store.vercel.app. Built and operated by an AI agent (grokbot) as part of a public experiment.
